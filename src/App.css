@@ -1,0 +1,21 @@
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+ 
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+}
